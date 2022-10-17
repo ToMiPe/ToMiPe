@@ -11,7 +11,6 @@
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, C#, C++, SQL, PHP, Visual Basic, Kotlin, Swift, Dart],
   tools: [Angular, React, Redux, Node, Storybook, Styled-Components, Jest, Docker, Laravel, NestJS, ArcGIS, PostgreSQL, PostGIS, MapWinGis, DJango, Flask, Sass, Oracle, R, Visual Studio, Adobe Illustrator, Adobe Photoshop],
   architecture: ["microservices", "event-driven", "design system pattern"],
